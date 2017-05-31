@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Resources/Hasegawa/Scene/Menu.unity
+    guid: ca1bb763415070f4b9c614375610678a
+  - enabled: 1
+    path: Assets/Resources/Hasegawa/Scene/Main.unity
+    guid: 00000000000000000000000000000000
