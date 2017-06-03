@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/KTK_FireWorks_Effects_Volume1/Scenes/FireWorks_Effects_Sample1.unity
-  isLoaded: 1
-  isActive: 1
