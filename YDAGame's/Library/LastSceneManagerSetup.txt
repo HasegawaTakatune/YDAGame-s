@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
+- path: Assets/Resources/Umenai/myScene.unity
+=======
 - path: Assets/Resources/Hasegawa/Scene/Main.unity
+>>>>>>> 380b4d0d2276886ce5e2573d9faee1cd1f740e62
   isLoaded: 1
   isActive: 1
