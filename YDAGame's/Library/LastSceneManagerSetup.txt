@@ -1,8 +1,12 @@
 sceneSetups:
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Resources/Umenai/myScene.unity
 =======
 - path: Assets/Resources/Hasegawa/Scene/Main.unity
 >>>>>>> 380b4d0d2276886ce5e2573d9faee1cd1f740e62
+=======
+- path: Assets/Resources/Umenai/EffectsAssets/KTK_Heal_Effects_Volume1/Scenes/Test_Heal_Demo.unity
+>>>>>>> 0e062fb20c4ab224628cc572210eec14a2784046
   isLoaded: 1
   isActive: 1
