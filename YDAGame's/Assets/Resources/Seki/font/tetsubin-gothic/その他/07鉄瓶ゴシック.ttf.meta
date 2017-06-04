@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bf6638de3d644d142a3d881f4eb849d9
+timeCreated: 1496515437
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 07TetsubinGothic
+  fontNames:
+  - 07TetsubinGothic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
