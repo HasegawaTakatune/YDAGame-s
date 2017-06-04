@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: e01732ce7ae930f41b2b9e2f7203aff4
 timeCreated: 1496477315
+=======
+guid: 345807865384aa3479d86aa26190348c
+timeCreated: 1496515398
+>>>>>>> da432ed507c39a3794a1ee1d2e2b416231906aaf
 licenseType: Free
 TextScriptImporter:
   userData: 

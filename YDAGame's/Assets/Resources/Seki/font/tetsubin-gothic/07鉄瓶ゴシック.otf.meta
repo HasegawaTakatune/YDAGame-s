@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 08691891a28ebc648845199351e8ee32
 timeCreated: 1496477315
+=======
+guid: ffa52aa57e656624198ec205518f7887
+timeCreated: 1496515437
+>>>>>>> da432ed507c39a3794a1ee1d2e2b416231906aaf
 licenseType: Free
 TrueTypeFontImporter:
   serializedVersion: 4
@@ -12,7 +17,12 @@ TrueTypeFontImporter:
   fontName: 07TetsubinGothic
   fontNames:
   - 07TetsubinGothic
+<<<<<<< HEAD
   fallbackFontReferences: []
+=======
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bf6638de3d644d142a3d881f4eb849d9, type: 3}
+>>>>>>> da432ed507c39a3794a1ee1d2e2b416231906aaf
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: dc8a8c7f047350d4b96cd01ef312ed14
 timeCreated: 1496477316
+=======
+guid: 2943a71e1c5efe94cb49e01bc9cb938d
+timeCreated: 1496515436
+>>>>>>> da432ed507c39a3794a1ee1d2e2b416231906aaf
 licenseType: Free
 TrueTypeFontImporter:
   serializedVersion: 4
@@ -12,8 +17,12 @@ TrueTypeFontImporter:
   fontName: PixelMplus10
   fontNames:
   - PixelMplus10
+<<<<<<< HEAD
   fallbackFontReferences:
   - {fileID: 12800000, guid: c70cdfef9e0bc2c429c9237c6a776a0c, type: 3}
+=======
+  fallbackFontReferences: []
+>>>>>>> da432ed507c39a3794a1ee1d2e2b416231906aaf
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

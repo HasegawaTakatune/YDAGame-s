@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 Base path: C:/Program Files/Unity/Editor/Data
+<<<<<<< HEAD
 =======
 Base path: C:/Unityunity_5_5_0/Editor/Data
 >>>>>>> 0e062fb20c4ab224628cc572210eec14a2784046
@@ -192,3 +193,6 @@ Cmd: compileSnippet
 Cmd: compileSnippet
   api=4 type=1 insize=1464 outsize=502 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=1
 >>>>>>> 0e062fb20c4ab224628cc572210eec14a2784046
+=======
+Cmd: getPlatforms
+>>>>>>> da432ed507c39a3794a1ee1d2e2b416231906aaf

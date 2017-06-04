@@ -6,8 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Resources/Hasegawa/Scene/Menu.unity
     guid: ca1bb763415070f4b9c614375610678a
   - enabled: 1
     path: Assets/Resources/Hasegawa/Scene/Main.unity
     guid: 00000000000000000000000000000000
+=======
+    path: Assets/Scene/Game.unity
+>>>>>>> da432ed507c39a3794a1ee1d2e2b416231906aaf
