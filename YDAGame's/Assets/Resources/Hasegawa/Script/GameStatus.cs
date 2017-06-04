@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class GameStatus : MonoBehaviour {
-
-	private static int Score = 100;
+	
+	private static int Score = 0;
 	public static int GetScore(){return Score;}
 	public static void AddScore(int input){Score += input;}
 
