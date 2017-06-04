@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 821
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -105,10 +105,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 771
-  m_MinSize: {x: 583, y: 421}
-  m_MaxSize: {x: 12008, y: 8042}
+  m_MinSize: {x: 583, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 154
+  controlID: 11
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -129,10 +129,10 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 771
-  m_MinSize: {x: 583, y: 421}
-  m_MaxSize: {x: 12008, y: 8042}
+  m_MinSize: {x: 583, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 1
-  controlID: 155
+  controlID: 12
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 583, y: 221}
   m_MaxSize: {x: 12008, y: 4021}
   vertical: 0
-  controlID: 25
+  controlID: 13
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,8 +226,8 @@ MonoBehaviour:
     y: 0
     width: 504
     height: 401
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -254,10 +254,10 @@ MonoBehaviour:
     y: 401
     width: 1536
     height: 370
-  m_MinSize: {x: 302, y: 200}
-  m_MaxSize: {x: 8002, y: 4021}
+  m_MinSize: {x: 432, y: 271}
+  m_MaxSize: {x: 14002, y: 10021}
   vertical: 0
-  controlID: 156
+  controlID: 89
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -276,14 +276,14 @@ MonoBehaviour:
     y: 0
     width: 680
     height: 370
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 19}
+  m_MinSize: {x: 232, y: 271}
+  m_MaxSize: {x: 10002, y: 10021}
+  m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
   - {fileID: 19}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -447,9 +447,9 @@ MonoBehaviour:
     height: 380
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 18060000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: aa29ffff92f5ffff2af6ffffc8f6ffffe2fbffff0000000022300000
+    m_ExpandedIDs: e4fbffff0000000074270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -542,19 +542,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Resources/Hasegawa/Script
+    - Assets/Resources
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Resources/Hasegawa/Script
+  - Assets/Resources
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\nwuser.DA\Documents\YDAGame-s\YDAGame's
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 95}
-    m_SelectedIDs: a0250000
-    m_LastClickedID: 9632
-    m_ExpandedIDs: 00000000c6240000ee2400000025000012250000b4250000fc25000028260000382600003c2600006c260000862600002227000030270000d8270000da27000000ca9a3bffffff7f
+    m_SelectedIDs: 88260000
+    m_LastClickedID: 9864
+    m_ExpandedIDs: 00000000c6240000f02400000225000014250000b6250000fe2500002a2600003a2600003e2600006e260000882600002427000032270000e8270000ea27000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -582,7 +582,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c6240000ee2400000025000012250000b4250000fc25000028260000382600003c2600006c260000862600002227000030270000d8270000da270000
+    m_ExpandedIDs: 00000000c6240000f02400000225000014250000b6250000fe2500002a2600003a2600003e2600006e260000882600002427000032270000e8270000ea270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -607,24 +607,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 18060000
-    m_LastClickedInstanceID: 1560
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 0e330000ee320000063300001a3300003c3300007c1e0000a0490000fabafeff58b1feff361c0000d272ffffd233ffff2cdbfeff02050000fe040000ea0400003ab1ffffe40400009817fcfff45a0000f60400005a0500007805000028050000f80400001c260000ba14ffffce400000ae400000d6210000da2100005e2400005ce7ffffa4edfdffa6efffff62caffffe0210000e6210000e2210000ea210000e8210000ee210000062200008a230000fa210000f6210000f221000000000000ac2200009a230000c82200003e23000018230000ce2100004022000070b6ffff5eeafdff46240000842400003424000036240000402400006c99ffff
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: GameUI
-      m_OriginalName: GameUI
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 1560
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 12}
     m_CreateAssetUtility:
@@ -748,7 +748,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.0038058704, y: 0.97932917, z: -0.20138851, w: 0.018506497}
     speed: 2
-    m_Value: {x: 0.0038058707, y: 0.9793292, z: -0.20138852, w: 0.018506499}
+    m_Value: {x: 0.0038058702, y: 0.97932917, z: -0.20138851, w: 0.018506497}
   m_Size:
     m_Target: 6.7685323
     speed: 2
